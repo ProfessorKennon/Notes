@@ -9,3 +9,6 @@ Welcome
 Algebra
 
 `[Algebra Notes](Algebra/)`
+
+hello
+[Algebra Notes](Algebra/)

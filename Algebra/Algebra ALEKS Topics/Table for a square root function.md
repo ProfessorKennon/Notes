@@ -1,0 +1,3 @@
+# Table for a square root function
+
+![127F3CBE-9B48-40AC-97E3-CC96655A6F63](images/127F3CBE-9B48-40AC-97E3-CC96655A6F63.heic)

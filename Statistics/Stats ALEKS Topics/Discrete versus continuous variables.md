@@ -1,0 +1,3 @@
+# Discrete versus continuous variables
+
+![3871798D-E7B0-48A1-B57D-0F4BF45944A2](images/3871798D-E7B0-48A1-B57D-0F4BF45944A2.PNG)

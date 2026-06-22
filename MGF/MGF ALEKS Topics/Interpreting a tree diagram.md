@@ -1,0 +1,3 @@
+# Interpreting a tree diagram
+
+![7364CEEA-8008-452A-ABCC-CC05C753A7E8](images/7364CEEA-8008-452A-ABCC-CC05C753A7E8.heic)

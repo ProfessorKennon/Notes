@@ -1,0 +1,8 @@
+# Solving a word problem with consecutive integers
+
+
+Three consecutive integers have a sum of 147. Find the integers. 
+![906C12A2-02B9-4C70-910D-610FAADB2150](images/906C12A2-02B9-4C70-910D-610FAADB2150.png)
+![0BE01121-C509-4A19-9BCE-75B70A6984BB](images/0BE01121-C509-4A19-9BCE-75B70A6984BB.heic)
+
+![9039E736-454A-4CB1-9167-87028E4E52C6](images/9039E736-454A-4CB1-9167-87028E4E52C6.png)

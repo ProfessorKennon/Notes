@@ -1,0 +1,3 @@
+# Chebyshev’s theorem and the empirical rule
+
+![DFF8B923-AEB4-4DAD-A46F-BB8AD8DD4222](images/DFF8B923-AEB4-4DAD-A46F-BB8AD8DD4222.PNG)

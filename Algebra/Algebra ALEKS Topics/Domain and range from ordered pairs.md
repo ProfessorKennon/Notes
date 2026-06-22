@@ -1,0 +1,4 @@
+# Domain and range from ordered pairs
+
+
+![953AFEB9-6A00-4F81-9C60-835F99F0AA4A](images/953AFEB9-6A00-4F81-9C60-835F99F0AA4A.png)

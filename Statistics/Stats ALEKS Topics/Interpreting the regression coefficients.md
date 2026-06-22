@@ -1,0 +1,3 @@
+# Interpreting the regression coefficients
+
+![58E87915-DE6D-4112-99C1-0B5905E26092](images/58E87915-DE6D-4112-99C1-0B5905E26092.PNG)

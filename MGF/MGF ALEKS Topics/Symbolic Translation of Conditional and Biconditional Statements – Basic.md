@@ -1,0 +1,8 @@
+# Symbolic Translation of Conditional and Biconditional Statements – Basic
+
+# 
+
+![CA47D98B-357E-443D-84BD-1AD912DDCED0](images/CA47D98B-357E-443D-84BD-1AD912DDCED0.heic)
+![660574AF-BC6A-4954-95BC-744891220FC1](images/660574AF-BC6A-4954-95BC-744891220FC1.heic)
+
+#Logic 

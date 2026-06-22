@@ -1,4 +1,0 @@
-# Introduction to the LCM of two monomials
-
-
-![5ECF9554-DA8C-40E2-B321-BA24AE445FDE](images/5ECF9554-DA8C-40E2-B321-BA24AE445FDE.png)

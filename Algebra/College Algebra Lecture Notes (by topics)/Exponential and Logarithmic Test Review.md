@@ -1,2 +1,0 @@
-# Exponential and Logarithmic Test Review
-

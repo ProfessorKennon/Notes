@@ -1,4 +1,0 @@
-# Multiplication of matrices: Basic
-
-
-![CC8CD695-8B31-4F7A-B05D-2B20FCA9E083](images/CC8CD695-8B31-4F7A-B05D-2B20FCA9E083.png)

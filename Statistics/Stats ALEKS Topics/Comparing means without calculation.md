@@ -1,3 +1,0 @@
-# Comparing means without calculation
-
-![DAB54E7E-C4CE-47E8-B09C-3D1AFF889EB2](images/DAB54E7E-C4CE-47E8-B09C-3D1AFF889EB2.PNG)

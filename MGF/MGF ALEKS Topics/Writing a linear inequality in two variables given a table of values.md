@@ -1,4 +1,0 @@
-# Writing a linear inequality in two variables given a table of values
-
-![8C275A3B-F902-489C-BAD0-C6B370792BAC](images/8C275A3B-F902-489C-BAD0-C6B370792BAC.heic)
-![461C2765-8E68-47DF-8C06-4EB60DF92E19](images/461C2765-8E68-47DF-8C06-4EB60DF92E19.heic)

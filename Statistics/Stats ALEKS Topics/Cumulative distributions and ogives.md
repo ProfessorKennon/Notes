@@ -1,3 +1,0 @@
-# Cumulative distributions and ogives
-
-![78B0A38C-6B8D-4436-A39C-5588ADF921D4](images/78B0A38C-6B8D-4436-A39C-5588ADF921D4.PNG)

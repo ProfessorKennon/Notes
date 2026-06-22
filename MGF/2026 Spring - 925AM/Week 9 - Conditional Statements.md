@@ -1,3 +1,0 @@
-# Week 9 - Conditional Statements
-
-# ![DC716277-79EC-4540-8EEE-77C144D29B67](images/DC716277-79EC-4540-8EEE-77C144D29B67.png)

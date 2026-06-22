@@ -1,3 +1,0 @@
-# Interpreting a stem-and-leaf display
-
-

@@ -1,0 +1,17 @@
+# Publix
+- [ ] 1 tablespoon olive oil
+- [ ] ½ cup sour cream
+- [x] 2 boneless skinless chicken breasts, or [2 cups](x-apple-data-detectors://embedded-result/47) diced rotisserie chicken
+- [x] [10.5 oz](x-apple-data-detectors://embedded-result/212) cream of chicken soup (condensed)
+- [x] 2 [1/2 cups](x-apple-data-detectors://embedded-result/81) chicken broth
+- [x] 1 cup Ritz crackers, crushed
+- [x] [½ teaspoon](x-apple-data-detectors://embedded-result/313) dried thyme
+- [x] [½ teaspoon](x-apple-data-detectors://embedded-result/336) garlic powder
+- [x] [2 cups](x-apple-data-detectors://embedded-result/271) shredded cheddar cheese, separated
+- [x] 2–3 cups fresh broccoli florets (uncooked)
+- [x] 1 [¼ cups](x-apple-data-detectors://embedded-result/129) white long grain rice (uncooked)
+- [x] ½ cup milk
+- [x] 1 teaspoon Italian seasoning
+- [x] Salt/Pepper, to taste
+- [x] 2 tablespoons butter
+- [x] 2 tablespoons melted butter

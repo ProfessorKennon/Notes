@@ -1,3 +1,0 @@
-# Area between two concentric circles
-
-![26531426-E9F5-4814-9E46-3C2199649408](images/26531426-E9F5-4814-9E46-3C2199649408.PNG)

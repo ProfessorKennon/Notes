@@ -1,6 +1,0 @@
-# Special products of radical expressions: Conjugates and squaring
-
- 
-![20DA03C2-D46D-46B6-9367-2507C5008FA8](images/20DA03C2-D46D-46B6-9367-2507C5008FA8.png)
-
-![346DB81C-897A-4E40-85A4-27DF802D3641](images/346DB81C-897A-4E40-85A4-27DF802D3641.png)

@@ -1,0 +1,16 @@
+- [ ] 800g lean ground beef (5% or less)
+- [ ] 100g low fat pepperoni (I used Turkey pepperoni, regular or beef pepperoni also works)
+- [ ] 400g tomato Passata (brand: Tesco)
+- [ ] 45g tomato paste 
+- [ ] 125g grated mozzarella
+- [ ] 125g grated low fat cheddar (brand: Tesco 50% less) 
+- [ ] 8 protein tortillas (brand: mission)
+- [ ] Chopped parsley 
+- [ ] tsp black pepper
+- [ ] 1-2 tsp salt 
+- [ ] 2 tsp Italian herbs
+- [ ] tsp smoked paprika
+- [ ] tsp garlic powder 
+- [ ] tsp onion powder 
+- [ ] 75g light cream cheese (brand: Philadelphia lightest)
+- [ ] 10g sugar or sweetener

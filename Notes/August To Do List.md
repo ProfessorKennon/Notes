@@ -1,0 +1,23 @@
+# August To Do List:
+- [ ] Clean woods area
+- [ ] Fix laundry room
+- [ ] Clean microwave
+- [ ] Clean kitchen drawers
+- [ ] Clean pantry
+- [ ] Build treehouse… Ha 
+- [ ] Clean oven
+- [ ] Fix holes in walls
+- [ ] Paint? YESSSSSS
+- [ ] Move stumps in back yard
+- [ ] Mulch front area
+- [ ] Lay sod
+- [ ] Clean green
+- [x] Clean back porch
+- [x] Organize Garage
+- [x] Change pantry 
+- [x] Build shelf
+- [x] Clean garage
+- [x] Plant tree
+- [x] Clean screens front
+- [x] Wash golf cart
+- [x] Clean screens back

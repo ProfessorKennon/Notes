@@ -1,5 +1,0 @@
-# Graphing a linear inequality in the plane: Slope-intercept form
-
-# 
-![5446E3B6-812D-4633-9E80-4450DDA3EA37](images/5446E3B6-812D-4633-9E80-4450DDA3EA37.heic)
-![2D5335AB-BC70-4F62-8A38-1752038F72B8](images/2D5335AB-BC70-4F62-8A38-1752038F72B8.heic)

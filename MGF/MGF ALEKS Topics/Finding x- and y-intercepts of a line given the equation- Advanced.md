@@ -1,4 +1,0 @@
-# Finding x- and y-intercepts of a line given the equation: Advanced
-
-![2B5451D5-40E3-496A-BD4E-6F726718B0FA](images/2B5451D5-40E3-496A-BD4E-6F726718B0FA.heic)
-![8494403E-BA0A-4B45-ADFF-7D2D8FF728D1](images/8494403E-BA0A-4B45-ADFF-7D2D8FF728D1.heic)

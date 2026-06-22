@@ -1,3 +1,0 @@
-# Identifying equivalent and equal sets
-
-![6D8FB854-C810-4D4E-ACC5-762AFCA7B395](images/6D8FB854-C810-4D4E-ACC5-762AFCA7B395.PNG)

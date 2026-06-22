@@ -1,4 +1,0 @@
-# Finding a side length given the perimeter and side lengths with variables
-
-![9E8B568D-B91C-476A-B752-1CD63DE9A91E](images/9E8B568D-B91C-476A-B752-1CD63DE9A91E.heic)
-![9F2504BC-314B-4713-916C-9E9B1EDCAA46](images/9F2504BC-314B-4713-916C-9E9B1EDCAA46.heic)

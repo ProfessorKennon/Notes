@@ -1,3 +1,0 @@
-# Finding a percentage of a whole number
-
-![A5EBAF45-BD61-4DFD-A6DF-67EE86DF0BC3](images/A5EBAF45-BD61-4DFD-A6DF-67EE86DF0BC3.PNG)

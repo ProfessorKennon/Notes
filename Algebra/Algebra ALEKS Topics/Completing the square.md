@@ -1,4 +1,0 @@
-# Completing the square
-
-#  
-# ![3227E291-CC04-46EF-B471-C229C4A530AB](images/3227E291-CC04-46EF-B471-C229C4A530AB.png)

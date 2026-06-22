@@ -1,5 +1,0 @@
-# Solving a system of linear equations using elimination with addition
-
-
-[29DCC975-EF4C-4784-9104-D22204994904](attachments/29DCC975-EF4C-4784-9104-D22204994904.png)
-![26374380-7F33-449F-93E0-E0C486C7E748](images/26374380-7F33-449F-93E0-E0C486C7E748.heic)

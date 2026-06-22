@@ -1,4 +1,0 @@
-# Polynomial long division: Problem type 1
-
-
-![FD6B950B-2B33-4E11-AED2-8ED50B6CA0C9](images/FD6B950B-2B33-4E11-AED2-8ED50B6CA0C9.png)

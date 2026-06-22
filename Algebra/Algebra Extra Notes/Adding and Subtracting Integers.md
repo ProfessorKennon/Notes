@@ -1,3 +1,0 @@
-# Adding and Subtracting Integers
-
-# ![8181C7CE-12FE-43EF-9E0C-D2714D044302](images/8181C7CE-12FE-43EF-9E0C-D2714D044302.png)

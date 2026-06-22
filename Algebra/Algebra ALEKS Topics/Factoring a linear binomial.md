@@ -1,3 +1,0 @@
-# Factoring a linear binomial
-
-![948A40C7-F73F-42F5-9B2C-A4B288765697](images/948A40C7-F73F-42F5-9B2C-A4B288765697.png)

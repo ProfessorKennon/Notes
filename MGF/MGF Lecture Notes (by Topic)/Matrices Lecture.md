@@ -1,0 +1,4 @@
+# Matrices Lecture
+
+# ![F1E63F39-E20A-4277-A983-D4740640D354](images/F1E63F39-E20A-4277-A983-D4740640D354.png)
+#GraphsFunctionsAndSystems 

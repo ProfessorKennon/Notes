@@ -1,0 +1,8 @@
+# Solving a linear equation by graphing
+
+# ![73815A2C-4795-4B5D-BF14-FC8FF306AB0B](images/73815A2C-4795-4B5D-BF14-FC8FF306AB0B.jpeg)
+
+![86F6E9A4-0306-46EA-8942-F9DBDBEB918B](images/86F6E9A4-0306-46EA-8942-F9DBDBEB918B.heic)
+
+#Lines 
+#LinesAndFunctions 

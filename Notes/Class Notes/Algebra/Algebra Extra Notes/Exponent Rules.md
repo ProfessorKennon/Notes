@@ -1,4 +1,0 @@
-# Exponent Rules
-
-
-[[Drawing.png]]

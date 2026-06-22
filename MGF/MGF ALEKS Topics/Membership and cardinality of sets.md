@@ -1,0 +1,3 @@
+# Membership and cardinality of sets
+
+![279ABB65-BC0A-41F0-85F8-FA3B120A10BF](images/279ABB65-BC0A-41F0-85F8-FA3B120A10BF.PNG)

@@ -1,4 +1,0 @@
-# Synthetic Division
-
-
-[[Drawing.png]]

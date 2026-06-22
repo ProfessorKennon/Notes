@@ -1,1 +1,0 @@
-# Normal Distribution Exam Review

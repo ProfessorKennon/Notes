@@ -1,3 +1,0 @@
-# Exponents 
-
-[[Drawing.png]]

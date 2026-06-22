@@ -1,3 +1,0 @@
-# Elimination 
-
-[[Drawing.png]]

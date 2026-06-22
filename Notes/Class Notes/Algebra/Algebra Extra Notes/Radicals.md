@@ -1,4 +1,0 @@
-# Radicals
-
-
-[[Drawing.png]]
